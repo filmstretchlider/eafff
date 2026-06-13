@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" preserveAspectRatio="xMidYMid slice">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b4c79"/><stop offset="1" stop-color="#09263f"/></linearGradient></defs>
+  <rect width="900" height="620" fill="url(#bg)"/>
+  <circle cx="760" cy="90" r="230" fill="#fff" opacity=".10"/>
+  <circle cx="110" cy="560" r="260" fill="#000" opacity=".15"/>
+  <text x="54" y="95" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">Marítimo</text>
+  <text x="450" y="360" text-anchor="middle" dominant-baseline="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="185" font-weight="900" opacity=".92">⚓</text>
+</svg>

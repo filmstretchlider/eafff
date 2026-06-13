@@ -1,27 +1,10 @@
-# Sitio estático EAFF - versión fiel al formato original
+# EAFF - web optimizada con video hero
 
-Listo para GitHub Pages.
+Versión estática lista para GitHub Pages.
 
-## Subida rápida
-1. Descomprimir el ZIP.
-2. Subir todo a la raíz del repositorio.
-3. Activar GitHub Pages desde `Settings > Pages`.
+Video original: 640x360, 106.8s.
+Video procesado: 640x360, 92.8s.
+Velocidad aplicada: 1.15x.
+Sin audio, comprimido y con poster fallback.
 
-## Video de YouTube
-Editar:
-
-`assets/js/config.js`
-
-Pegar la URL completa o el ID:
-
-```js
-window.SITE_CONFIG = {
-  youtubeVideo: "https://www.youtube.com/watch?v=XXXXXXXXXXX"
-};
-```
-
-## SEO
-Editar `robots.txt` y `sitemap.xml` cambiando `https://tudominio.com/` por el dominio real.
-
-## Formulario
-El formulario calcula volumen. Para que envíe correos reales hay que conectar Formspree, Netlify Forms o backend propio.
+Subí todo el contenido del ZIP a la raíz del repositorio y activá GitHub Pages en main / root.
