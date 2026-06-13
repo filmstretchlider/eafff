@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071626"/><stop offset="1" stop-color="#0d6efd"/></linearGradient></defs><rect width="1200" height="630" fill="url(#a)"/><circle cx="1010" cy="120" r="180" fill="#2de0ff" opacity=".25"/><text x="90" y="250" font-family="Arial" font-size="92" font-weight="900" fill="white">EAFF S.A.</text><text x="94" y="335" font-family="Arial" font-size="42" font-weight="700" fill="#d8e3ef">Comercio exterior integral</text><text x="94" y="410" font-family="Arial" font-size="30" fill="#b8c5d6">Aduana · Transporte internacional · Puerta a puerta</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#006cae"/>
+  <path d="M0 430 C250 330,430 510,680 380 C850 292,1020 260,1200 330 L1200 630 L0 630 Z" fill="#003965" opacity=".85"/>
+  <path d="M124 380 C192 210,360 118,610 102" fill="none" stroke="#37bfd0" stroke-width="44" stroke-linecap="round"/>
+  <path d="M150 404 C300 500,470 470,650 300" fill="none" stroke="#fff" stroke-width="44" stroke-linecap="round"/>
+  <text x="120" y="240" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="700" fill="#ffffff">EAFF S.A.</text>
+  <text x="124" y="306" font-family="Arial, Helvetica, sans-serif" font-size="42" fill="#dff6fa">Agentes aduaneros · Freight forwarding</text>
+</svg>

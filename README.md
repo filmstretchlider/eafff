@@ -1,18 +1,18 @@
-# EAFF landing estática para GitHub Pages
+# Sitio estático EAFF - versión fiel al formato original
 
-Archivos listos para subir al repositorio:
+Listo para GitHub Pages.
 
-- `index.html`
-- `assets/css/styles.css`
-- `assets/js/config.js`
-- `assets/js/main.js`
-- `robots.txt`
-- `sitemap.xml`
-- `404.html`
+## Subida rápida
+1. Descomprimir el ZIP.
+2. Subir todo a la raíz del repositorio.
+3. Activar GitHub Pages desde `Settings > Pages`.
 
 ## Video de YouTube
+Editar:
 
-Editar `assets/js/config.js` y pegar la URL o el ID:
+`assets/js/config.js`
+
+Pegar la URL completa o el ID:
 
 ```js
 window.SITE_CONFIG = {
@@ -20,12 +20,8 @@ window.SITE_CONFIG = {
 };
 ```
 
-Sin ese dato, el botón abre el modal pero muestra aviso. No usé el MP4 bajado.
+## SEO
+Editar `robots.txt` y `sitemap.xml` cambiando `https://tudominio.com/` por el dominio real.
 
 ## Formulario
-
-El formulario usa `mailto:eaff@eaff.com.ar`, porque GitHub Pages no ejecuta backend. Para producción se puede conectar con Formspree, Netlify Forms, Brevo, Make, Zapier o backend propio.
-
-## Subida a GitHub
-
-Subir todo el contenido del ZIP a la raíz del repo. En GitHub Pages, publicar desde `main / root`.
+El formulario calcula volumen. Para que envíe correos reales hay que conectar Formspree, Netlify Forms o backend propio.
